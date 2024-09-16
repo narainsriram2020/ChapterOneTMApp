@@ -1,4 +1,4 @@
-# Task Manager - React Native
+# Task Manager
 
 A Task Manager app built using React Native to manage tasks. Abilities include: add, edit, mark as complete, and delete tasks. Tasks can also be prioritized as high, medium, or low and sorted by according priority.
 
